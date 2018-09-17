@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "miscible-js-tasting": "./bin/javascript-testing"
+    "miscible-js-testing": "./bin/javascripts-testing"
   },
   "repository": {
     "type": "git",
