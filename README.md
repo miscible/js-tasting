@@ -1,1 +1,1 @@
-# js-tasting
+# js-testing
