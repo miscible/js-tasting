@@ -1,0 +1,37 @@
+{
+  "name": "miscible-js-testing",
+  "version": "1.0.0",
+  "description": "Delightful JavaScript Testing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "miscible-js-tasting": "./bin/javascript-testing"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miscible/js-testing.git"
+  },
+  "keywords": [
+    "jest",
+    "babel",
+    "test",
+    "testing",
+    "typescript",
+    "tape",
+    "tap",
+    "snapshot",
+    "jsdom"
+  ],
+  "author": "Nutthapat Piasangka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miscible/js-testing/issues"
+  },
+  "homepage": "https://github.com/miscible/js-testing#readme",
+  "dependencies": {
+    "import-local": "^2.0.0",
+    "jest-cli": "^23.6.0"
+  }
+}
